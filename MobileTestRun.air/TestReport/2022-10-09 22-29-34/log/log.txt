@@ -1,0 +1,1 @@
+{"tag": "function", "depth": 1, "time": 1665325780.9485486, "data": {"name": "start_app", "call_args": {"package": "com.gonline.AppBravoCasino", "activity": null}, "start_time": 1665325779.4098654, "ret": null, "end_time": 1665325780.9485486}}

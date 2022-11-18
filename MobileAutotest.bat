@@ -1,0 +1,1 @@
+airtest run MobileTestRun.air
